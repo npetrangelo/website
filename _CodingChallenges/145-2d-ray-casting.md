@@ -80,6 +80,11 @@ contributions:
       name: "Hauman Kevin"
       url: "https://github.com/kevhauma"
     url: "https://editor.p5js.org/kevhauma/sketches/D8iNuZdhF"
+  - title: "Ray Casting with Colored Walls"
+    author:
+      name: "Nathan Petrangelo"
+      url: "https://github.com/npetrangelo"
+    url: "https://editor.p5js.org/Holobrine/sketches/EGQWGH-TxZ"
 videos:
   - title: "Coding Adventure: Ray Marching"
     author: "Sebastian Lague"
